@@ -37,7 +37,6 @@ cd ${ARGO_HOME}
 
 
 ## check the log
-```bash
 $ ~/argo/log$ ls -ls
 
 total 16
