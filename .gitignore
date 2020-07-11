@@ -1,0 +1,5 @@
+config.sh
+log/*.log
+log/*.ip
+log/*.json
+
